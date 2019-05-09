@@ -1,5 +1,0 @@
-$ git config --global user.name "Woolfi"
-$ git config --global user.email "zxcadsl@gmail.com"
-$ git config --global core.autocrlf false
-$ git config --global core.filemode false
-$ git config --global branch.autosetuprebase always
